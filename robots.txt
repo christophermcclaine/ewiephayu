@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://achaequoo.vrsty.info/sitemap.xml
